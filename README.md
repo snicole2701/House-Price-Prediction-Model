@@ -1,9 +1,9 @@
 # House-Price-Prediction-Model
 ## Objective: Develop a predictive model using Python to estimate housing prices based on various features.
 
-## Data Source: The dataset consists of various features affecting house prices, such as the number of rooms, the population, households, and proximity to the ocean.
+Data Source: The dataset consists of various features affecting house prices, such as the number of rooms, the population, households, and proximity to the ocean.
 
-Steps Taken:
+## Steps Taken:
 
 ### Data Loading and Cleaning:
 
